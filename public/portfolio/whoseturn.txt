@@ -1,0 +1,28 @@
+WHOSE TURN IS IT
+
+Copyright (c) 2020 - Brandon Beamer
+
+[github](GitHub) [demo](Demo)
+
+Overview
+
+Whose Turn Is It is a django-based web app that helps groups who share responsibilities to keep track of, 
+well, whose turn it is. This project was developed out of a real need for my
+partner and I to keep track of whose turn it was to buy dinner—something we,
+amazingly, had real difficulty keeping track of.
+
+Implementation
+
+  Python/Django
+
+Features
+
+ - Built-in user management
+ - Support user-specific time zones
+ - Creating tasks and inviting others to it via email
+ - Recording comments on completed turns
+ - Viewing shared task history
+ - Responsive layout looks great on all screen sizes
+
+[github]: https://github.com/brandonbeamer/whoseturn.git
+[demo]: https://brandonbeamer.com/whoseturn

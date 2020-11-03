@@ -1,0 +1,17 @@
+TERMINAL
+
+Copyright (c) 2020 - Brandon Beamer
+
+[github](GitHub)
+
+Description:
+
+A Vue.js component which replicates a retro terminal experience. It may even be presenting this text to you right now!
+
+Features:
+
+ - Keyboard input
+ - Clickable cells and simulated input allow navigation on mobile devices.
+ - Teletype-style printing
+
+[github]: http://www.github.com

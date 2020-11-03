@@ -1,0 +1,10 @@
+Find Brandon elsewhere on the internet in the following places:
+
+ - [github](GitHub)
+ - [linkedin](LinkedIn)
+ - [rgate](Research Gate)
+
+
+[github]: https://github.com/brandonbeamer
+[linkedin]: https://www.linkedin.com/in/brandon-beamer-21502ba2/
+[rgate]: https://www.researchgate.net/profile/Brandon_Beamer

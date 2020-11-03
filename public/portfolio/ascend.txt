@@ -1,0 +1,32 @@
+ASCEND
+ 
+Copyright (c) 2019 - Brandon Beamer
+
+[github](GitHub) [win](Windows) [mac](Mac)
+
+Overview
+
+Ascend is an anagram game for people who take their anagrams a little more
+seriously. If offers a fast-paced and challenging—yet, somehow Zen—anagram
+puzzle solving experience with a unique twist: building anagram chains rewards
+the player with inspiration, which can be spent to use special abilities.
+
+Implementation
+
+   Unity/C#
+
+Features
+
+ - Anagram fun
+ - Chain bonuses
+ - Special abilities
+ - In-game tutorial
+ - Time pressure
+ - Original music/art
+ - Normal mode (automatic steadily-increasing difficulty)
+ - Arcade mode (user-defined play settings)
+ - High score
+
+[github]: https://github.com/brandonbeamer/ascend
+[win]: /downloads/ascend_win_0.2b.zip
+[mac]: /downloads/ascend_mac_0.2b.app.zip
