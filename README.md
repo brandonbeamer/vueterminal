@@ -1,5 +1,7 @@
 # terminal
 
+![screenshot](https://github.com/brandonbeamer/vueterminal/blob/master/src/assets/screenshot.png?raw=true)
+
 ## Project setup
 ```
 npm install
